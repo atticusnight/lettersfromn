@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'im_fell_english_proregular';
+  src: url('fonts/feenrm28c-webfont.eot');
+  src: url('fonts/feenrm28c-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/feenrm28c-webfont.woff2') format('woff2'),
+    url('fonts/feenrm28c-webfont.woff') format('woff'),
+    url('fonts/feenrm28c-webfont.ttf') format('truetype'),
+    url('fonts/feenrm28c-webfont.svg#im_fell_english_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bearpawregular';
+    src: url('fonts/bearpaw_-webfont.eot');
+    src: url('fonts/bearpaw_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/bearpaw_-webfont.woff2') format('woff2'),
+         url('fonts/bearpaw_-webfont.woff') format('woff'),
+         url('fonts/bearpaw_-webfont.ttf') format('truetype'),
+         url('fonts/bearpaw_-webfont.svg#bearpawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body, p, h2, h3, h4, h5, h6 {
+  font-family: "im_fell_english_proregular", "Lato", "Helvetica", serif;
+  background-color: #F3F0D2;
+  color: black;
+  font-size: 18px;
+}
+.subtitle {
+  font-size: 24px;
+  color: #644E74;
+}
+.title {
+  font-family: "bearpawregular";
+}
+p {
+  font-family: "im_fell_english_proregular";
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+.icon-bar {
+  background: #45392A;
+}
+.item:hover {
+  background: #644E74 !important;
+}
+#menu {
+  font-family: "Source Sans Pro", sans-serif;
+}
+#menu.fix-spacing {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+.fix-line-height {
+  line-height: 1;
+}
+@media only screen and (min-width: 40.063em) {
+  .fix-spacing {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+}
+@media only screen and (max-width: 40em) {
+  .fixspacing {
+    padding-left: 6px;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0;
+    border: 0;
+  }
+}
+.orange {
+  color: #DE823D;
+}
+.large-title {
+  font-size: 144px;
+}
+.medium-title {
+  font-size: 96px;
+}
+.small-title {
+  font-size: 72px;
+}
+.paw {
+  font-family: "bearpawregular";
+  font-size: 36px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+  
