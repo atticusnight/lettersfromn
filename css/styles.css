@@ -1,0 +1,43 @@
+body {
+  font-family: 'Lato', 'Helvetica', sans-serif;
+  background-color: #F3F0D2;
+  color: white;
+}
+a:link {
+  color: white;
+  text-decoration: none;
+}
+.icon-bar {
+  background: #45392A;
+}
+.item:hover {
+  background: #644E74 !important;
+}
+#menu.fix-spacing {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+@media only screen and (min-width: 40.063em) {
+  .fix-spacing {
+    padding: 0;
+    margin: 0;
+    border: 0;
+  }
+}
+@media only screen and (max-width: 40em) {
+  .fixspacing {
+    padding-left: 6px;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0;
+    border: 0;
+  }
+}
+.orange {
+  color: #DE823D;
+}
+.typewriter {
+  font-family: "Courier New";
+}
