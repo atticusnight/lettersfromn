@@ -22,11 +22,11 @@
 }
 @media only screen and (min-width: 40.063em) {
   .fix-spacing {
-    padding: 0;
-    margin: 0;
-    border: 0;
-    -webkit-margin-before: 0;
-    -webkit-margin-after: 0;
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+    -webkit-margin-before: 0px;
+    -webkit-margin-after: 0px;
   }
   h1 {
     font-size: 135px;
@@ -44,11 +44,11 @@
   }
   .fix-spacing {
     padding-left: 6px;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-top: 0;
-    margin: 0;
-    border: 0;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin: 0px;
+    border: 0px;
   }
   h1 {
     font-size: 60px;
@@ -94,9 +94,9 @@ a:link {
   font-family: "Source Sans Pro", sans-serif;
 }
 #menu.fix-spacing {
-  padding: 0;
-  margin: 0;
-  border: 0;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
 }
 .orange {
   color: #DE823D;
