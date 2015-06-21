@@ -20,21 +20,64 @@
     font-weight: normal;
     font-style: normal;
 }
-body, p, h2, h3, h4, h5, h6 {
+@media only screen and (min-width: 40.063em) {
+  .fix-spacing {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+  }
+  h1 {
+    font-size: 135px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+  .fix-line-height {
+    line-height: 1;
+  }
+}
+@media only screen and (max-width: 40em) {
+  .row.fix-spacing, .icon-bar.fix-spacing {
+    padding-left: 0px;
+  }
+  .fix-spacing {
+    padding-left: 6px;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    margin: 0;
+    border: 0;
+  }
+  h1 {
+    font-size: 60px;
+  }
+  h3 {
+    font-size: 24px;
+  }
+  p.fix-line-height {
+    line-height: 1.3;
+  }
+  .fix-line-height {
+    line-height: 1;
+  }
+}
+@media only screen and (min-width: 40.063em) and (max-width: 64em) {
+  h1 {
+    font-size: 120px;
+  }
+  h3 {
+    font-size: 40px;
+  }
+}
+body, p, h1, h2, h3, h4, h5, h6 {
   font-family: "im_fell_english_proregular", "Lato", "Helvetica", serif;
   background-color: #F3F0D2;
   color: black;
-  font-size: 18px;
 }
-.subtitle {
-  font-size: 24px;
+.purple {
   color: #644E74;
-}
-.title {
-  font-family: "bearpawregular";
-}
-p {
-  font-family: "im_fell_english_proregular";
 }
 a:link {
   color: white;
@@ -42,6 +85,7 @@ a:link {
 }
 .icon-bar {
   background: #45392A;
+  float: left;
 }
 .item:hover {
   background: #644E74 !important;
@@ -54,45 +98,23 @@ a:link {
   margin: 0;
   border: 0;
 }
-.fix-line-height {
-  line-height: 1;
-}
-@media only screen and (min-width: 40.063em) {
-  .fix-spacing {
-    padding: 0;
-    margin: 0;
-    border: 0;
-    -webkit-margin-before: 0;
-    -webkit-margin-after: 0;
-}
-@media only screen and (max-width: 40em) {
-  .fixspacing {
-    padding-left: 6px;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-top: 0;
-    margin: 0;
-    border: 0;
-  }
-}
 .orange {
   color: #DE823D;
 }
-.large-title {
-  font-size: 144px;
+h1 {
+  font-family: "bearpawregular";
 }
-.medium-title {
-  font-size: 96px;
-}
-.small-title {
-  font-size: 72px;
+h3 {
+  font-weight: bolder;
 }
 .paw {
   font-family: "bearpawregular";
   font-size: 36px;
 }
 img {
-  max-width: 100%;
-  height: auto;
+  height: 100%;
+  overflow: hidden;
 }
-  
+.row {
+  max-width: 100% !important;
+}
