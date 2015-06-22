@@ -41,6 +41,7 @@
 @media only screen and (max-width: 40em) {
   .row.fix-spacing, .icon-bar.fix-spacing {
     padding-left: 0px;
+    padding-right: 0px;
   }
   .fix-spacing {
     padding-left: 6px;
