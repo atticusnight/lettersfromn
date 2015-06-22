@@ -31,7 +31,7 @@
   h1 {
     font-size: 135px;
   }
-  h3 {
+  h2 {
     font-size: 40px;
   }
   .fix-line-height {
@@ -44,16 +44,16 @@
   }
   .fix-spacing {
     padding-left: 6px;
-    padding-right: 0px;
+    padding-right: 6px;
     padding-bottom: 0px;
     padding-top: 0px;
     margin: 0px;
     border: 0px;
   }
   h1 {
-    font-size: 60px;
+    font-size: 72px;
   }
-  h3 {
+  h2 {
     font-size: 24px;
   }
   p.fix-line-height {
@@ -67,7 +67,7 @@
   h1 {
     font-size: 120px;
   }
-  h3 {
+  h2 {
     font-size: 40px;
   }
 }
@@ -104,11 +104,12 @@ a:link {
 h1 {
   font-family: "bearpawregular";
 }
-h3 {
+h2 {
   font-weight: bolder;
 }
 .paw {
   font-family: "bearpawregular";
+  font-size: 36px;
 }
 img {
   height: 100%;
