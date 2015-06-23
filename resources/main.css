@@ -85,11 +85,20 @@ a:link {
   text-decoration: none;
 }
 .icon-bar {
-  background: #45392A;
+  background-color: #45392A;
   float: left;
 }
+.item {
+  transition-property: background-color;
+  transition-duration: 1s;
+  transition-timing-function: ease-out;
+  background-color: #45392A !important;
+}
 .item:hover {
-  background: #644E74 !important;
+  transition-property: background-color;
+  transition-duration: 0.25s;
+  transition-timing-function: ease-out;
+  background-color: #644E74 !important;
 }
 #menu {
   font-family: "Source Sans Pro", sans-serif;
@@ -118,4 +127,22 @@ img {
 }
 .row {
   max-width: 100% !important;
+}
+#tree-cite {
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  background-color: #45392A;
+  font-size: 11px;
+  color: white;
+  transition-property: transform, opacity;
+  transition-duration: 0.5s;
+  transform: translateY(-30px);
+  opacity: 0;
+}
+#tree-cite:hover {
+  transition-property: transform, opacity;
+  transition-duration: 0.5s;
+  transform: translateY(0px);
+  opacity: 0.8;
 }
