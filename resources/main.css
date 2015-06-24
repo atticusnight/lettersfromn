@@ -121,6 +121,9 @@ h2 {
   font-family: "bearpawregular";
   font-size: 36px;
 }
+img#pixel {
+  height: 0%;
+}
 img {
   height: 100%;
   overflow: hidden;
