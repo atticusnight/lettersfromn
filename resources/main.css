@@ -99,6 +99,7 @@ a:visited {
 .icon-bar {
   background-color: #45392A;
   float: left;
+  position: fixed;
 }
 .item {
   transition-property: background-color;
@@ -162,7 +163,4 @@ img {
   transition-duration: 0.5s;
   transform: translateY(0px);
   opacity: 0.8;
-}
-.post {
-  border: 2px solid #45392A;
 }
