@@ -2,29 +2,53 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
+    <title>Letters From N</title>
+    <link>http://lettersfromn.com</link>
+    <language>en</language>
+    <copyright>&#x2117; &amp; &#xA9; , Atticus Night </copyright>
+    <itunes:subtitle>A thrilling podcast recounting the story of an unknown life.</itunes:subtitle>
+    <itunes:author>Audite Scriptum</itunes:author>
+    <itunes:summary>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Told in a series of scripted episodes, this podcast is unlike any other. Produced by Audite Scriptum.</itunes:summary>
+    <description>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Told in a series of scripted episodes, this podcast is unlike any other. Produced by Audite Scriptum.</description>
+
+    <itunes:owner>
+      <itunes:name>Atticus Night</itunes:name>
+      <itunes:email>atticus@lettersfromn.com</itunes:email>
+    </itunes:owner>``
+
+    <itunes:image href="http://lettersfromn.com/resources/img/mainlogo.png" />
+
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts"/>
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>The Mountain-Solemn Vow</title>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:author>Audite Scriptum</itunes:author>
+      <itunes:summary>Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The author? A solemn vow must not be broken, without exception. I shall fear nothing.
+
+<![CDATA[<a href="http://lettersfromn.com">Website</a>]]>
+<![CDATA[<a href="http://twitter.com/LettersFromN">Twitter</a>]]>
+
+<![CDATA[<a href="http://lettersfromn.com/episodes/the-mountain-solemn-vow/sounds/">List of public domain sounds</a>]]></itunes:summary>
+      <itunes:image href="http://lettersfromn.com/resources/img/episodes/1.jpg" />
+
+      <enclosure url="http://lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3" length="18281786" type="audio/mpeg" />
+
+      <guid>1</guid>
+
+      <pubDate>Mon, 29 Jun 2015 05:00:00 EST</pubDate>
+
+      <itunes:duration>12:42</itunes:duration>
+
+    </item>
+    
   </channel>
 </rss>
