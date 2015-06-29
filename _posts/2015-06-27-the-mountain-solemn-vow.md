@@ -8,9 +8,9 @@ Cal wakes on a mountain, only to realize he's lost his memory. Where did he come
 
 [iTunes](http://itunes.com/)  
 [Stitcher](http://www.stitcher.com/podcast/audite-scriptum/letters-from-n)  
-[Direct Link](http://lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3)
+[Direct Link](http://www.podtrac.com/pts/redirect.mp3/lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3)
 
 [Website](http://lettersfromn.com)  
 [Twitter](http://twitter.com/LettersFromN)
 
-[List of public domain sound effects](http://lettersfromn.com/episodes/the-mountain-solemn-vow/sounds/)
+[List of public domain sound effects](http://lettersfromn.com/sounds/)
