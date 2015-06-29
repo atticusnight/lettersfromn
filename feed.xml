@@ -18,7 +18,7 @@ layout: null
     <itunes:owner>
       <itunes:name>Atticus Night</itunes:name>
       <itunes:email>atticus@lettersfromn.com</itunes:email>
-    </itunes:owner>``
+    </itunes:owner>
 
     <itunes:image href="http://lettersfromn.com/resources/img/mainlogo.png" />
 
@@ -37,9 +37,9 @@ layout: null
 
       <enclosure url="http://www.podtrac.com/pts/redirect.mp3/lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3" length="18281786" type="audio/mpeg" />
 
-      <guid>1</guid>
+      <guid permalink="false">1</guid>
 
-      <pubDate>Mon, 27 Jun 2015 05:00:00 EST</pubDate>
+      <pubDate>Sat, 27 Jun 2015 05:00:00 EST</pubDate>
 
       <itunes:duration>12:42</itunes:duration>
 
