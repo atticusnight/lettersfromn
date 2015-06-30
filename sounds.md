@@ -3,6 +3,7 @@ layout: default
 Title: Sounds
 permalink: /sounds/
 ---
+<div class="columns small-12 medium-9 small-6 fix-spacing">
 #Sounds
 ###List of sounds used by episode
 ####[The Mountain/Solemn Vow](http://lettersfromn.com/episodes/2015/06/26/the-mountain-solemn-vow)
@@ -17,3 +18,4 @@ permalink: /sounds/
 - [ApplesDroppingThudinaForest by kvgarlic](http://freesound.org/people/kvgarlic/sounds/149418/)
 - [whack01 by Qat](http://freesound.org/people/Qat/sounds/114682/)
 - [Water dripping on hot plate making steam by jorickhoofd](http://freesound.org/people/jorickhoofd/sounds/170736/)
+</div>
