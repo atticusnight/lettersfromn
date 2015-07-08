@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<div class="post columns small-12 medium-10 fix-spacing">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
-  </header>
-
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+<div class="row">
+  <div class="post col-xs-12 col-sm-9">
+    <header class="post-header">
+      <h1 class="post-title orange bearpaw">{{ page.title }}</h1>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</p>
+    </header>
+    <article class="post-content">
+      {{ content }}
+    </article>
+  </div>
+  <div class="col-xs-12 col-sm-3" id="crossfade-wrapper">
+    <img id="crossfade" src="/resources/img/1.jpg">
+  </div>
 </div>
