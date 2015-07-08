@@ -10,10 +10,10 @@ layout: null
     <link>http://lettersfromn.com</link>
     <language>en</language>
     <copyright>All Rights Reserved</copyright>
-    <itunes:subtitle>A thrilling podcast recounting the story of an unknown life.</itunes:subtitle>
+    <itunes:subtitle>A thrilling, serialized podcast recounting the story of an unknown life.</itunes:subtitle>
     <itunes:author>Audite Scriptum</itunes:author>
-    <itunes:summary>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this podcast is unlike any other. Produced by Audite Scriptum.</itunes:summary>
-    <description>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this podcast is unlike any other. Produced by Audite Scriptum.</description>
+    <itunes:summary>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</itunes:summary>
+    <description>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</description>
 
     <itunes:owner>
       <itunes:name>Atticus Night</itunes:name>
@@ -24,13 +24,14 @@ layout: null
 
     <itunes:category text="Arts">
       <itunes:category text="Performing Arts"/>
+      <itunes:category text="Literature" />
     </itunes:category>
 
     <itunes:explicit>no</itunes:explicit>
     
     <item>
       <title>The Mountain-Solemn Vow</title>
-      <itunes:subtitle></itunes:subtitle>
+      <itunes:subtitle>Cal wakes on a mountain, only to realized he's lost his memory. Where did he come from?</itunes:subtitle>
       <itunes:author>Audite Scriptum</itunes:author>
       <itunes:summary>Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The author? A solemn vow must not be broken, without exception. I shall fear nothing.  <a href="http://lettersfromn.com">Website</a>  <a href="http://twitter.com/LettersFromN">Twitter</a>  <a href="http://lettersfromn.com/sounds/">List of public domain sounds</a></itunes:summary>
       <itunes:image href="http://lettersfromn.com/resources/img/episodes/1.jpg" />
