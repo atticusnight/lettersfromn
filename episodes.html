@@ -3,13 +3,20 @@ layout: default
 permalink: /episodes/
 title: Episodes
 ---
-<div class="columns small-12 medium-9 large-6 fix-spacing">
-  <h1>All Episodes</h1>
-  {% for post in site.posts %}
-    <hr>
-    <div class="post">
-      <a href="http://lettersfromn.com{{ post.permalink }}"><h2>{{ post.title }}</h2></a>
-      <p class="fix-spacing">{{ post.date | date: "%b %-d, %Y" }}</p>
-      <p class="fix-spacing">{{ post.excerpt }}</p>
+<div class="row">
+  <div class="col-xs-12 col-sm-9 content bg-cream">
+    <h1 class="bearpaw orange">All Episodes</h1>
+    {% for post in site.posts %}
+      <div class="post">
+        <a href="http://lettersfromn.com{{ post.permalink }}"><h2>{{ post.title }}</h2></a>
+        <p class="fix-spacing">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p class="fix-spacing">{{ post.excerpt }}</p>
+      </div>
+      <hr />
+    {% endfor %}
   </div>
-  {% endfor %}
+  <div class="col-xs-12 col-sm-3" id="crossfade-wrapper">
+    <img id="crossfade" src="/resources/img/1.jpg">
+  </div>
+</div>
+<img id="pixel" src="https://ga-beacon.appspot.com/UA-64261094-2/lettersfromn/episodes?pixel" />

@@ -1,0 +1,160 @@
+/* breakpoints 48em 62em 75em */
+@font-face {
+  font-family: 'im_fell_english_proregular';
+  src: url('/resources/fonts/feenrm28c-webfont.eot');
+  src: url('/resources/fonts/feenrm28c-webfont.eot?#iefix') format('embedded-opentype'),
+    url('/resources/fonts/feenrm28c-webfont.woff2') format('woff2'),
+    url('/resources/fonts/feenrm28c-webfont.woff') format('woff'),
+    url('/resources/fonts/feenrm28c-webfont.ttf') format('truetype'),
+    url('/resources/fonts/feenrm28c-webfont.svg#im_fell_english_proregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bearpawregular';
+    src: url('/resources/fonts/bearpaw_-webfont.eot');
+    src: url('/resources/fonts/bearpaw_-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/resources/fonts/bearpaw_-webfont.woff2') format('woff2'),
+         url('/resources/fonts/bearpaw_-webfont.woff') format('woff'),
+         url('/resources/fonts/bearpaw_-webfont.ttf') format('truetype'),
+         url('/resources/fonts/bearpaw_-webfont.svg#bearpawregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@media only screen and (max-width: 33.9em) {
+  html {
+    font-size: 0.8em;
+  }
+  .content {
+    padding-bottom: 1em;
+  }
+}
+@media only screen and (min-width: 34em) and (max-width: 47.9em) {
+  html {
+    font-size: 1em;
+  }
+  .content {
+    padding-bottom: 1em;
+  }
+}
+@media only screen and (min-width: 48em) and (max-width: 61.9em) {
+  html {
+    font-size: 1.25em;
+  }
+}
+/*@media only screen and (min-width: 62em) {
+  html {
+    font-size: 1.5em;
+  }
+}
+
+/* colors */
+.bg-brown {
+  background-color: #45392A;
+}
+.brown {
+  color: #45392A;
+}
+.bg-cream {
+  background-color: #F3F0D2;
+}
+.cream {
+  color: #F3F0D2;
+}
+.bg-blue {
+  background-color: #B3CAFF;
+}
+.blue {
+  color: #B3CAFF;
+}
+.bg-orange {
+  background-color: #DE820C;
+}
+.orange {
+  color: #DE820C;
+}
+.bg-purple {
+  background-color: #6A4E74;
+}
+.purple {
+  color: #6A4E74;
+}
+
+/* utility classes, resets and fixes */
+body {
+  margin: 0px;
+}
+h1 {
+  font-size: 6rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h2, h3, h4, h5, h6, p {
+  font-family: "im_fell_english_proregular", "Times New Roman", serif;
+}
+.center-child {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a, a:hover, a:active, a:visited {
+  text-decoration: none;
+}
+.bearpaw {
+  font-family: "bearpawregular";
+  font-weight: normal;
+}
+.center-text {
+  text-align: center;
+}
+.row {
+  margin: 0 !important;
+}
+
+/* element styles */
+
+nav {
+  height: 3em;
+}
+nav a {
+  height: 100%;
+  background-color: #45392A;
+  transition-property: background-color;
+  transition-duration: 0.25s;
+  font-size: 1.5em;
+}
+nav a:hover {
+  background-color: #644E74;
+}
+.content {
+  padding-left: 1.5em !important;
+  padding-right: 1.5em !important;
+}
+#crossfade-wrapper {
+  overflow: hidden !important;
+  padding: 0;
+  background-image: url("/resources/img/2.jpg");
+  background-size: cover;
+}
+#crossfade {
+  width: auto;
+  height: calc(100% - 3rem);
+  opacity: 1;
+  transition-property: opacity;
+  transition-duration: 0.4s;
+}
+#crossfade:hover {
+  opacity: 0;
+}
+button {
+  border-radius: 4px;
+  border: 0px;
+  font-family: "im_fell_english_proregular", "Times New Roman", serif;
+  font-size: 2em;
+  width: 90%;
+}
+.paw {
+  font-family: "bearpawregular";
+  font-size: 2em;
+}
