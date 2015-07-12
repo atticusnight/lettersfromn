@@ -20,7 +20,7 @@ layout: null
       <itunes:email>atticus@lettersfromn.com</itunes:email>
     </itunes:owner>
 
-    <itunes:image href="http://lettersfromn.com/resources/img/mainlogo.png" />
+    <itunes:image href="http://lettersfromn.com/resources/img/logo.png" />
 
     <itunes:category text="Arts">
       <itunes:category text="Performing Arts"/>
