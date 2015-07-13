@@ -23,7 +23,7 @@ layout: null
     <itunes:image href="http://lettersfromn.com/resources/img/logo.png" />
 
     <itunes:category text="Arts">
-      <itunes:category text="Performing Arts"/>
+      <itunes:category text="Performing Arts" />
       <itunes:category text="Literature" />
     </itunes:category>
 
