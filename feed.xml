@@ -12,8 +12,8 @@ layout: null
     <copyright>All Rights Reserved</copyright>
     <itunes:subtitle>A thrilling serialized podcast discovering the story of an unknown life.</itunes:subtitle>
     <itunes:author>Audite Scriptum</itunes:author>
-    <itunes:summary>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</itunes:summary>
-    <description>Cal finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</description>
+    <itunes:summary>A thrilling, serialized podcast recounting the story of an unknown life. Following a trail of letters signed with the letter “N” alone, Cal must learn about the strange life of N and his own haunted past. He finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. In this podcast, a mild psychological thriller meets a radiodrama, and adds a hint of humour. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</itunes:summary>
+    <description>A thrilling, serialized podcast recounting the story of an unknown life. Following a trail of letters signed with the letter “N” alone, Cal must learn about the strange life of N and his own haunted past. He finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. Following his thoughts and recordings, he comes upon a series of letters-letters from N-and we come upon a dark, convoluted mystery. In this podcast, a mild psychological thriller meets a radiodrama, and adds a hint of humour. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other. Produced by Audite Scriptum.</description>
 
     <itunes:owner>
       <itunes:name>Atticus Night</itunes:name>
@@ -33,7 +33,8 @@ layout: null
       <title>The Mountain-Solemn Vow</title>
       <itunes:subtitle>Cal wakes on a mountain, only to realized he's lost his memory. Where did he come from?</itunes:subtitle>
       <itunes:author>Audite Scriptum</itunes:author>
-      <itunes:summary>Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The author? A solemn vow must not be broken, without exception. I shall fear nothing.  <a href="http://lettersfromn.com">Website</a>  <a href="http://twitter.com/LettersFromN">Twitter</a>  <a href="http://lettersfromn.com/sounds/">List of public domain sounds</a></itunes:summary>
+      <itunes:summary><![CDATA[Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The author? A solemn vow must not be broken, without exception. I shall fear nothing.  <a href="http://lettersfromn.com">Website</a>  <a href="http://twitter.com/LettersFromN">Twitter</a>  <a href="http://lettersfromn.com/sounds/">List of public domain sounds</a>]]></itunes:summary>
+      <description><![CDATA[Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The author? A solemn vow must not be broken, without exception. I shall fear nothing.  <a href="http://lettersfromn.com">Website</a>  <a href="http://twitter.com/LettersFromN">Twitter</a>  <a href="http://lettersfromn.com/sounds/">List of public domain sounds</a>]]></description>
       <itunes:image href="http://lettersfromn.com/resources/img/episodes/1.jpg" />
 
       <enclosure url="http://www.podtrac.com/pts/redirect.mp3/lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3" length="18281786" type="audio/mpeg" />
@@ -43,8 +44,7 @@ layout: null
       <pubDate>Sat, 27 Jun 2015 05:00:00 EST</pubDate>
 
       <itunes:duration>12:42</itunes:duration>
-
     </item>
-    
+    <atom:link rel="self" />
   </channel>
 </rss>
