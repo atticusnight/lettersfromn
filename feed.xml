@@ -29,6 +29,8 @@ layout: null
 
     <itunes:explicit>no</itunes:explicit>
     
+    <atom:link rel="self" href="http://lettersfromn.com/feed.xml" type="application/rss+xml" />
+    
     <item>
       <title>The Mountain-Solemn Vow</title>
       <itunes:subtitle>Cal wakes on a mountain, only to realized he's lost his memory. Where did he come from?</itunes:subtitle>
@@ -57,6 +59,5 @@ layout: null
 
       <itunes:duration>12:42</itunes:duration>
     </item>
-    <atom:link rel="self" />
   </channel>
 </rss>
