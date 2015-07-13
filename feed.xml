@@ -59,5 +59,33 @@ layout: null
 
       <itunes:duration>12:42</itunes:duration>
     </item>
+    <item>
+      <title>The Human Condition</title>
+      <itunes:subtitle>Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean?</itunes:subtitle>
+      <itunes:author>Audite Scriptum</itunes:author>
+      <itunes:summary><![CDATA[Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean? The persistent question: who is N anways? Also, train drama, water, and a village.
+      
+      <p><a href="http://lettersfromn.com">lettersfromn.com</a></p>
+      
+      <p><a href="http://twitter.com/LettersFromN">Twitter</a></p>
+      
+      <p><a href="http://lettersfromn.com/sounds/">List of public domain sounds</a></p>]]></itunes:summary>
+      <description><![CDATA[Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean? The persistent question: who is N anways? Also, train drama, water, and a village.
+      
+      <p><a href="http://lettersfromn.com">lettersfromn.com</a></p>
+      
+      <p><a href="http://twitter.com/LettersFromN">Twitter</a></p>
+      
+      <p><a href="http://lettersfromn.com/sounds/">List of public domain sounds</a></p>]]></description>
+      <itunes:image href="http://lettersfromn.com/resources/img/episodes/2.jpg" />
+
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/lettersfromn.com/resources/audio/the-human-condition.mp3" length="19884922" type="audio/mpeg" />
+
+      <guid>http://lettersfromn.com/episodes/the-mountain-solemn-vow</guid>
+
+      <pubDate>Mon, 12 Jul 2015 05:00:00 EST</pubDate>
+
+      <itunes:duration>13:49</itunes:duration>
+    </item>
   </channel>
 </rss>
