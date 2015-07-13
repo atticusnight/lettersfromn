@@ -6,15 +6,16 @@ title: Episodes
 <div class="row">
   <div class="col-xs-12 content bg-cream">
     <h1 class="bearpaw orange">All Episodes</h1>
+    {% include sharing.html %}
   </div>
 </div>
 {% for post in site.posts %}
   <div class="row">
     <div class="col-xs-12 content bg-cream">
       <div class="post">
-        <a href="http://lettersfromn.com{{ post.permalink }}"><h2>{{ post.title }}</h2></a>
+        <a href="http://lettersfromn.com{{ post.permalink }}" id="post-link"><h2>{{ post.title }}</h2></a>
         <p class="fix-spacing">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <p class="fix-spacing">{{ post.excerpt }}</p>
+        <p class="fix-spacing">{{ post.content }}</p>
       </div>
       <hr />
     </div>
