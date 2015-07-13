@@ -6,6 +6,7 @@ layout: null
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 
   <channel>
+    <itunes:title>Letters From N</itunes:title>
     <title>Letters From N: A Mystery Series</title>
     <link>http://lettersfromn.com</link>
     <language>en</language>
