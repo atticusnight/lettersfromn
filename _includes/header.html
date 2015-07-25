@@ -24,8 +24,9 @@
 </head>
 <body>
   <nav class="row" id="menu" role="navigation">
-    <a href="/" class="col-xs-3 center-child" id="home-link"><i class="fa fa-home cream"></i></a>
-    <a href="/about/" class="col-xs-3 center-child" id="about-link"><i class="fa fa-info cream"></i></a>
-    <a href="/links" class="col-xs-3 center-child" id="links-link"><i class="fa fa-headphones cream"></i></a>
-    <a href="/contact/" class="col-xs-3 center-child" id="contact-link"><i class="fa fa-envelope-o cream"></i></a>
+    <img href="/resources/img/logo.png" />
+    <a href="/" class="col-xs-3 center-child {% if page.permalink == '/' %} bg-purple {% endif %}" id="home-link"><i class="fa fa-home cream"></i></a>
+    <a href="/about/" class="col-xs-3 center-child {% if page.permalink == '/about/' %} bg-purple {% endif %}" id="about-link"><i class="fa fa-info cream"></i></a>
+    <a href="/links" class="col-xs-3 center-child {% if page.permalink == '/links/' %} bg-purple {% endif %}" id="links-link"><i class="fa fa-headphones cream"></i></a>
+    <a href="/contact/" class="col-xs-3 center-child {% if page.permalink == '/contact/' %} bg-purple {% endif %}" id="contact-link"><i class="fa fa-envelope-o cream"></i></a>
   </nav>
