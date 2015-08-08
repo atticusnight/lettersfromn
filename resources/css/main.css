@@ -38,8 +38,35 @@
   }
 }
 @media only screen and (min-width: 48em) and (max-width: 61.9em) {
-  html {
-    font-size: 1.25em;
+  #itunes-link button {
+    font-size: 1.5em;
+  }
+  #stitcher-link button {
+    font-size: 1.5em;
+  }
+  #episodes-link button {
+    font-size: 1.5em;
+  }
+  #feed-link button {
+    font-size: 1.5em;
+  }
+}
+@media only screen and (max-width: 47.9em) {
+  #crossfade-wrapper {
+    background-image: none !important;
+    background-color: #F3F0D2;
+  }
+  #crossfade {
+    height: 0% !important;
+  }
+  #itunes-link button {
+    margin-bottom: 1em;
+  }
+  #stitcher-link button {
+    margin-bottom: 1em;
+  }
+  #episodes-link button {
+    margin-bottom: 1em;
   }
 }
 
@@ -106,6 +133,9 @@ a, a:hover, a:active, a:visited {
 }
 .row {
   margin: 0 !important;
+}
+body {
+  background-color: #F3F0D2;
 }
 
 /* element styles */
