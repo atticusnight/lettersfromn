@@ -1,6 +1,6 @@
 # Site settings
 title: Letters From N
-email: atticus@lettersfromn.com
+email: calvin@lettersfromn.com
 baseurl: "/"
 url: "http://lettersfromn.com" # the base hostname & protocol for your site
 markdown: redcarpet
