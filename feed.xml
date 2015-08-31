@@ -165,5 +165,45 @@ sitemap:
 
       <itunes:duration>12:03</itunes:duration>
     </item>
+    <item>
+      <title>#5: Lone Road to the Lost North</title>
+      <itunes:subtitle>They're more powerful than you think.</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[The letters. They're more powerful than you think. As is Fenrir. As is Cal. Any expectations you had, they're much different now. This changes everything. Also, the first sponsor. Go to Georgia (the dog) and use the code "LFN" for extra savings.
+      <br />
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></itunes:summary>
+      <description><![CDATA[The letters. They're more powerful than you think. As is Fenrir. As is Cal. Any expectations you had, they're much different now. This changes everything. Also, the first sponsor. Go to Georgia (the dog) and use the code "LFN" for extra savings.
+      <br />
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/1.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/lone-road-to-the-lost-north.mp3" length="29701640" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/and-it-runs-deep</guid>
+
+      <pubDate>Mon, 31 Aug 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>12:21</itunes:duration>
+    </item>
   </channel>
 </rss>
