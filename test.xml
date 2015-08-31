@@ -1,0 +1,208 @@
+---
+layout: null
+sitemap:
+  exclude: 'yes'
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+  <channel>
+    <title>Letters From N</title>
+    <link>https://lettersfromn.com</link>
+    <language>en</language>
+    <copyright>All Rights Reserved</copyright>
+    <itunes:subtitle>A peculiar, serialized podcast weaving the convoluted story of a forgotten life.</itunes:subtitle>
+    <itunes:author>Calvin Lucido</itunes:author>
+    <itunes:summary>Letters From N is a peculiar, serialized podcast weaving the convoluted story of a forgotten life. Following a trail of letters signed with the letter “N” alone, Cal must learn about the strange life of N and his own haunted past. He finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. He comes upon a series of letters-letters from N-and we, following, come upon a dark, convoluted mystery. In Letters From N, a psychological thriller-slash-mystery meets a radiodrama, adding a hint of humour. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other.</itunes:summary>
+    <description>Letters From N is a peculiar, serialized podcast weaving the convoluted story of a forgotten life. Following a trail of letters signed with the letter “N” alone, Cal must learn about the strange life of N and his own haunted past. He finds himself on a mountaintop, with nothing but a voice recorder to keep him sane. He comes upon a series of letters-letters from N-and we, following, come upon a dark, convoluted mystery. In Letters From N, a psychological thriller-slash-mystery meets a radiodrama, adding a hint of humour. Infused with mythology and told in a series of scripted episodes, this serialized podcast is unlike any other.</description>
+
+    <itunes:owner>
+      <itunes:name>Calvin Lucido</itunes:name>
+      <itunes:email>calvin@lettersfromn.com</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="https://lettersfromn.com/resources/img/logo.png" />
+
+    <itunes:category text="Arts">
+      <itunes:category text="Performing Arts" />
+      <itunes:category text="Literature" />
+    </itunes:category>
+
+    <itunes:explicit>no</itunes:explicit>
+
+    <atom:link rel="self" href="https://lettersfromn.com/feed.xml" type="application/rss+xml" />
+
+    <item>
+      <title>#1: The Mountain-Solemn Vow</title>
+      <itunes:subtitle>Cal wakes on a mountain, only to realized he's lost his memory. Where did he come from?</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[<p>Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The letters from N inside? What about the author? A solemn vow must *not* be broken, without exception. I shall fear nothing.</p>
+      <br />
+      <p><a href="https://lettersfromn.com">lettersfromn.com</a></p>
+      <br />
+      <p><a href="http://twitter.com/LettersFromN">@LettersFromN on Twitter</a></p>
+      <br />
+      <p><a href="https://lettersfromn.com/sounds">List of public domain sounds</a></p>]]></itunes:summary>
+      <description><![CDATA[<p>Cal wakes on a mountain, only to realize he's lost his memory. Where did he come from? How can he survive this isolated trial he's been dropped in? Then he comes upon the crate. What about its mysteries? The letters from N inside? What about the author? A solemn vow must *not* be broken, without exception. I shall fear nothing.</p>
+      <br />
+      <p><a href="https://lettersfromn.com">lettersfromn.com</a></p>
+      <br />
+      <p><a href="http://twitter.com/LettersFromN">@LettersFromN on Twitter</a></p>
+      <br />
+      <p><a href="https://lettersfromn.com/sounds">List of public domain sounds</a></p>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/1.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/the-mountain-solemn-vow.mp3" length="18281786" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/the-mountain-solemn-vow</guid>
+
+      <pubDate>Sat, 27 Jun 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>12:42</itunes:duration>
+    </item>
+    <item>
+      <title>#2: The Human Condition</title>
+      <itunes:subtitle>Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean?</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[<p>Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean? The persistent question: who is N anyways? Also, train drama, water, and a village.</p>
+      <br />
+      <p><a href="https://lettersfromn.com">lettersfromn.com</a></p>
+      <br />
+      <p><a href="http://twitter.com/LettersFromN">@LettersFromN on Twitter</a></p>
+      <br />
+      <p><a href="https://lettersfromn.com/sounds">List of public domain sounds</a></p>]]></itunes:summary>
+      <description><![CDATA[<p>Cal digs deeper into his shared mystery with N. The letters are surprisingly timely-what could that mean? The persistent question: who is N anyways? Also, train drama, water, and a village.</p>
+      <br />
+      <p><a href="https://lettersfromn.com">lettersfromn.com</a></p>
+      <br />
+      <p><a href="http://twitter.com/LettersFromN">@LettersFromN on Twitter</a></p>
+      <br />
+      <p><a href="https://lettersfromn.com/sounds">List of public domain sounds</a></p>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/2.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/the-human-condition.mp3" length="19884922" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/the-human-condition</guid>
+
+      <pubDate>Sun, 12 Jul 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>13:49</itunes:duration>
+    </item>
+    <item>
+      <title>#3: Manufactured Paranoia</title>
+      <itunes:subtitle>Cal's journey in the town continues, growing paranormal and colliding with an ancient mythology.</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[Cal's journey in the town continues, growing paranormal and colliding with an ancient mythology. Meeting various creatures along the journey, he finds his way to an even more terrifying conflict of cultures. Can the letters from N save him? Sometimes, the most fearsome conditions in life have been manufactured, mass-produced; implore yours aren't.
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></itunes:summary>
+      <description><![CDATA[Cal's journey in the town continues, growing paranormal and colliding with an ancient mythology. Meeting various creatures along the journey, he finds his way to an even more terrifying conflict of cultures. Can the letters from N save him? Sometimes, the most fearsome conditions in life have been manufactured, mass-produced; implore yours aren't.
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/1.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/manufactured-paranoia.mp3" length="18064676" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/manufactured-paranoia</guid>
+
+      <pubDate>Mon, 27 Jul 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>12:31</itunes:duration>
+    </item>
+    <item>
+      <title>#4: And It Runs Deep</title>
+      <itunes:subtitle>Fenrir: The saviour or the traitor?</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[Fenrir: The saviour or the traitor? Cal discovers who Fenrir really is, yet struggles to discover himself. The letters from N are no help either. The best and the worst-it all runs deep inside. Love and hatred. Joy and sorrow. Security and fear. Even in the face of ambivalence, assume stability until proven otherwise.
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></itunes:summary>
+      <description><![CDATA[Fenrir: The saviour or the traitor? Cal discovers who Fenrir really is, yet struggles to discover himself. The letters from N are no help either. The best and the worst-it all runs deep inside. Love and hatred. Joy and sorrow. Security and fear. Even in the face of ambivalence, assume stability until proven otherwise.
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/4.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/and-it-runs-deep.mp3" length="17388338" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/and-it-runs-deep</guid>
+
+      <pubDate>Mon, 17 Aug 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>12:03</itunes:duration>
+    </item>
+    <item>
+      <title>#5: Lone Road to the Lost North</title>
+      <itunes:subtitle>They're more powerful than you think.</itunes:subtitle>
+      <itunes:author>Calvin Lucido</itunes:author>
+      <itunes:summary><![CDATA[The letters. They're more powerful than you think. As is Fenrir. As is Cal. Any expectations you had, they're much different now. This changes everything. Also, the first sponsor. Go to Georgia (the dog) and use the code "LFN" for extra savings.
+      <br />
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></itunes:summary>
+      <description><![CDATA[The letters. They're more powerful than you think. As is Fenrir. As is Cal. Any expectations you had, they're much different now. This changes everything. Also, the first sponsor. Go to Georgia (the dog) and use the code "LFN" for extra savings.
+      <br />
+      <br />
+      <a href="https://lettersfromn.com">lettersfromn.com</a>
+      <br />
+      <a href="http://twitter.com/lettersfromn">@LettersFromN on Twitter</a>
+      <br />
+      <a href="http://google.com/+lettersfromn">+LettersFromN on Google+</a>
+      <br />
+      <a href="https://www.facebook.com/pages/Letters-From-N/1621783574756577">Letters From N on Facebook</a>
+      <br />
+      <br />
+      <a href="https://lettersfromn.com/sounds">Public Domain Sounds</a>]]></description>
+      <itunes:image href="https://lettersfromn.com/resources/img/episodes/1.jpg" />
+
+      <enclosure url="https://lettersfromn.com/resources/audio/lone-road-to-the-lost-north.mp3" length="29701640" type="audio/mpeg" />
+
+      <guid>https://lettersfromn.com/episodes/and-it-runs-deep</guid>
+
+      <pubDate>Mon, 31 Aug 2015 06:00:00 EST</pubDate>
+
+      <itunes:duration>12:21</itunes:duration>
+  </channel>
+</rss>
